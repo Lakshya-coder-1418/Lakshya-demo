@@ -1,4 +1,4 @@
 # Lakshya-demo
 This is my first Git Repository.
 <br>
-Author - Lakshya Goyal
+Author - Lakshya (IIT Ropar)
